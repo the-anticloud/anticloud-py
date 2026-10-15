@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "bb2c756bc476109fcf042447ef65a6a657fa0f34",
-   "url": "https://github.com/corelan/mona",
-   "sha_verified_from": "agent_sha_api.json/github search (class-A)"
+   "url": "https://github.com/codebasics/py",
+   "head": "3ee4bde332ae7a10499c2679900094fa22ae191f",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/corelan/mona"
   }
  }
 }
